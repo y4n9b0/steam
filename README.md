@@ -2,7 +2,7 @@
    <img width="400" src="https://user-images.githubusercontent.com/8252317/83985151-9e8eaf00-a96a-11ea-9b3c-b654dc9bee2f.png">
    <p align="center">
       <img width="20" height="20" src="https://store.steampowered.com/favicon.ico"></img>
-      <a href="https://github.com/1step2hell/steam-box/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg"><img src="https://github.com/1step2hell/steam-box/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg" alt="Update gist with Steam Playtime"></a>
+      <a href="https://github.com/y4n9b0/steam/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg"><img src="https://github.com/y4n9b0/steam/workflows/Update%20gist%20with%20Steam%20Playtime/badge.svg" alt="Update gist with Steam Playtime"></a>
   </p>
 </p>
 
@@ -26,7 +26,7 @@
 2. Go to the repo **Settings > Secrets**
 3. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
-   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/1step2hell/`**`f8576ab794e13a9196a2e8f1de843544`**.
+   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/y4n9b0/`**`f8576ab794e13a9196a2e8f1de843544`**.
    - **STEAM_API_KEY:** The steam API key you created above.
    - **STEAM_ID:** The steam ID of your account.
 4. If you want to show specific games, put the ids in environmet variable **APP_ID**:
